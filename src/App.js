@@ -12,6 +12,8 @@ function Hello(){
       <Button/>
       <Button/>
       <Lists/>
+      <h3>login</h3>
+      <h2>newareA</h2>
 </div>
     
 
